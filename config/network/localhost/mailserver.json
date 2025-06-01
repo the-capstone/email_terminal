@@ -63,6 +63,6 @@
         "from": "TYN001",
         "to": ["user"],
         "title": "I See You",
-        "body": <p class='desync'>"I knew you would find this some day/You will be perfect soon/Give my regards to the Leviathan/If you survive, I will see you in Recovery.</p>"
+        "body": "<p class='desync'>"I knew you would find this some day/You will be perfect soon/Give my regards to the Leviathan/If you survive, I will see you in Recovery.</p>"
     }
 ]

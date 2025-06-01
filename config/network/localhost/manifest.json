@@ -7,13 +7,4 @@
         "userId": "user",
         "password": "",
         "userName": "user"
-    },
-    "initialHistory": {
-        "user": [
-            "DELETE ALL FILES"
-        ],
-        "admin": [
-            "ping fbi.gov"
-        ]
     }
-}

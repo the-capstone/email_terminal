@@ -4,7 +4,7 @@
     "iconName": "thonoto-icon.png",
     "terminalID": "ENGINEER",
     "defaultUser": {
-        "userId": "ENGINEER",
+        "userId": "user",
         "password": "",
         "userName": "ENGINEER"
     },

@@ -2,11 +2,11 @@
     "serverAddress": "localhost",
     "serverName": "THONOTO - ENGINEERING CONTROL",
     "iconName": "thonoto-icon.png",
-    "terminalID": "ODRAX",
+    "terminalID": "ENGINEER",
     "defaultUser": {
         "userId": "user",
         "password": "",
-        "userName": "anonymous"
+        "userName": "ODrax"
     },
     "initialHistory": {
         "user": [

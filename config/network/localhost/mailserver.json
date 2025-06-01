@@ -29,7 +29,7 @@
         "title": "What Are You Hiding?",
         "body": "<p class='desync'>Our eyes can not see below the stone.  Why are you building so deep?  We will find out.  We must find out.</p>"
     },
-      {
+    {
         "from": "LEADER",
         "to": ["user"],
         "title": "We Take Our Thrones",
@@ -41,7 +41,7 @@
         "title": "Get Out",
         "body": "It is awake.  The wards will not hold.  We need to leave NOW."
     },
-        {
+    {
         "from": "ENGINEER",
         "to": ["user"],
         "title": "Final Note to Self",

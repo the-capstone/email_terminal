@@ -1,12 +1,12 @@
 {
     "year": "2377",
     "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
+    "serverName": "Thonoto Project - Council Server for DMCLS",
     "iconName": "thonoto-icon.png",
-    "terminalID": "Y56",
+    "terminalID": "ENGINEER",
     "defaultUser": {
         "userId": "user",
         "password": "",
-        "userName": "anonymous"
+        "userName": "odax"
     }
 }

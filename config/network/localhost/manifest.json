@@ -1,10 +1,12 @@
 {
+    "year": "2377",
     "serverAddress": "localhost",
-    "serverName": "THONOTO - ENGINEERING CONTROL",
+    "serverName": "Node Y56 Intranet",
     "iconName": "thonoto-icon.png",
-    "terminalID": "ENGINEER",
+    "terminalID": "Y56",
     "defaultUser": {
         "userId": "user",
         "password": "",
-        "userName": "user"
+        "userName": "anonymous"
     }
+}

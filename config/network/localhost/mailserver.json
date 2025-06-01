@@ -3,13 +3,13 @@
         "from": "QUILL",
         "to": ["user"],
         "title": "Concerns About the Island's Construction",
-        "body": "As you know, I've LOVED the idea of the construction of the island form the beginning - a controlled testbed for all of our latest projects, kept safely away from the greater population?!  Yes, PLEASE!  Already I have several designs planned out - I'm thinking of a new form of archives inscribed directly onto compacted sand or perhaps some sort of layered ink compressed into a circle and...look at me, going off again, I know your time is short.  Your recent focus on the underground has me somewhat alarmed - do we need such an extensive network of testbeds that far below the surface?  Why can't we build the council's projects on the surface?  There is plenty of room!  Please contact me as soon as possible!  I have a meeting with TIZONA later, and it keeps asking me what we are planning and I'm running out of excuses!  It's got me quite jumbled!"
+        "body": "As you know, I've LOVED the idea of the construction of the island form the beginning - a controlled testbed for all of our latest projects, kept safely away from the greater population?!  Yes, PLEASE!  Already I have several designs planned out - I'm thinking of a new form of archives inscribed directly onto compacted sand or perhaps some sort of layered ink compressed into a circle and...look at me, going off again, I know your time is short.  Your recent focus on the underground has me somewhat alarmed - do we REALLY need such an extensive network of testbeds that far below the surface?  Why can't we build the council's projects on the surface?  There is plenty of room and our Benefactors are worried we're spending our research hiding in the corners, drawing in the margins.  Please contact me as soon as possible!  I have a meeting with TIZONA later, and she keeps asking me what we are planning down here and I'm running out of excuses to give her.  It's got me quite jumbled!"
     },
     {
         "from": "MERCY",
         "to": ["user"],
         "title": "Re: Re: Re: Re: Re: Re: Your Physical",
-        "body": "Just because your machines are well maintained doesn't mean your own flesh and blood are kept up to task.  There are enough concerns on this island that we're all exposed to that I will NOT allow mutation or sickness to spread among the Council staff.  I hold this mantle, just as you hold yours.  I am tired of putting off your appointment, you're the last on my list and I have my own projects to do without having to chase you down.  Show up at my pavilion tomorrow morning or I'm coming after you myself with a scalpel and a hacksaw."
+        "body": "Just because your machines are well maintained doesn't mean your own flesh and blood are kept up to task.  There are enough concerns on this island that we're all exposed to that I will NOT allow mutation or sickness to spread among the Council staff.  Thonoto has many dangers, and we should know that considering we put them there.  I hold this Mantle, just as you hold yours.  I am tired of putting off your appointment, you're the last on my list and I have my own projects to do without having to chase you down.  Show up at my pavilion tomorrow morning or I'm coming after you myself with a scalpel and a hacksaw."
     },
     {
         "from": "ENGINEER",
@@ -20,8 +20,8 @@
     {
         "from": "ENGINEER",
         "to": ["user"],
-        "title": "Note to Self 2 - Elves",
-        "body": "Being this far way from the war on the mainland, I almost forgot about the knife ears.  Their properties are astounding - their metabolisms morph to their enviornments, taking on new strengths and weaknesses.  Never seen anything like it - that makes them dangerous.  What can change can also survive.  They're a primative sort, still living in the wood and the leafs.  Still, Durendal has a fondness for them.  Fine.  Twinkle all you like in the sky - we won't need to be your favored children for much longer."
+        "title": "Note to Self 2 - Lesser Races",
+        "body": "Being this far way from the war on the mainland, I almost forgot about the knife ears.  Their properties are astounding - their metabolisms morph to their enviornments, taking on new strengths and weaknesses.  Never seen anything like it - that makes them dangerous.  What can change can also survive.  I'd like to take an extensive study of them, I've a theory that if we expose them to some of the Arklight, we can manifest some special properties in them to replicate it independently of the Source - they could make excellent servants if that was the case.  The rest of the Council thinks me a fool for this - but maybe after DMCLS is finished.  Elves are primative sorts, still living in the wood and the leaves, probably enver building anything of any worth unless a dwarven hand guides them.  Still, DURENDAL has a fondness for them, and told us to leave them alone - they belong to Him.  Fine.  Twinkle all you like in the sky - we won't need to be your favored children for much longer."
     },
     {
         "from": "KuSaNaGi",
@@ -41,6 +41,12 @@
         "title": "Get Out",
         "body": "It is awake.  The wards will not hold.  We need to leave NOW."
     },
+        {
+        "from": "ENGINEER",
+        "to": ["user"],
+        "title": "Final Note to Self",
+        "body": "I am going to die.  That enough is unavoidable, but I can make sure I do this last work.  I've managed to engage the locks, Earth Mother knows it won't do any good against the damaned roof that blew off the facility and I can't stop the parts that are leaking out in the sky, but I can bind the bastard's feet to the ground before I bleed out.  My apprentices are already all dead, DMCLS fed on everyone who was below ground the moment the circuit was complete.  I barely managed to make it back here to this terminal - though the field already took it's toll from as it is.  This work was hard enough to do with both of my arms - and I'm not even left handed.  Purpose, Oren, Purpose - keep focused, it'll stop the bleeding.   I'll run a corruption on the archives while it is here too - WARRIOR had the sense to leave before we flipped the switch, and he can decide what he wants to teach those on the mainland about what we were doing here.  If they want to build horrors of their own, let them - but they aren't doing it with Arklight.  Seeing the stars fall out of the sky when we flipped the switch though - what a laugh.  Not worth it, but damn Twinkles aren't telling us to do a damn thing now, are they?  Earth Mother, we moved from you.  Earth Mother, we forsaked you.  Earth Mother, I miss you."
+    },
     {
         "from": "DaMoClEs",
         "to": ["user"],
@@ -51,12 +57,12 @@
         "from": "T",
         "to": ["user"],
         "title": "what is this?",
-        "body": "What an incredible discovery!  An actual working Dwarven terminal!  Fenthick will never want me to touch any of these anathema, but the bastard can go soak his head for all I care about.  The world is falling to cold ruin, and all he can think about is what is proper for the People.  The devices in this vault will help us finally fight back against the fiends, and unlike the Cold Knights, I don't intend on building a weapon that can turn against us.  I miss my magick - I could enchant something to keep me warm at least.  Still, this system bears investigation.  I'll make my own account on this system.  Server?  Whatever they call it - this terminal is far too public for what I have in mind."
+        "body": "What an incredible discovery!  An actual working Dwarven terminal! I'm astound that it is still intact after millenia - what is powering it?   Fenthick would never want me to touch any of these anathema, but the bastard can go soak his head for all I care - this is IMPORTANT.  The world is falling to cold ruin, and all he can think about is what is proper for the People.  The devices in this vault will help us finally fight back against the fiends, and unlike the Cold Knights, I don't intend on building a weapon that can turn against us.  I miss my magick - I could enchant something to keep me warm at least.  Still, this system bears investigation.  I'll make my own account on this system.  Server?  Whatever they call it - this terminal is far too public for what I have in mind."
     },
     {
         "from": "TYN001",
         "to": ["user"],
         "title": "I See You",
-        "body": "I knew you would find this some day.  You will be perfect soon.  Give my regards to the Leviathan.  If you survive, I will see you in Recovery."
+        "body": <p class='desync'>"I knew you would find this some day/You will be perfect soon/Give my regards to the Leviathan/If you survive, I will see you in Recovery.</p>"
     }
 ]

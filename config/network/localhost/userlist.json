@@ -18,8 +18,8 @@
     },
 
     {
-        "userId": "user",
-        "password": "",
-        "userName": "user"
+        "userId": "n",
+        "password": "n",
+        "userName": "debug"
     }
 ]

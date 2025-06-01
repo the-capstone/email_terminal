@@ -4,9 +4,9 @@
     "iconName": "thonoto-icon.png",
     "terminalID": "ENGINEER",
     "defaultUser": {
-        "userId": "user",
+        "userId": "ENGINEER",
         "password": "",
-        "userName": "ODrax"
+        "userName": "ENGINEER"
     },
     "initialHistory": {
         "user": [

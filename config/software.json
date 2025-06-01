@@ -32,6 +32,17 @@
             "<img src=\"https://thispersondoesnotexist.com/image\" title=\"tHeY aRe NoT hUmAn\" style=\"width: 10rem; max-width: 100%;\">"
         ]
     },
+    "log1": {
+        "message": [
+        "from": "QUILL",
+        "to": "ENGINEER",
+        "title": "Concerns About the Island's Construction",
+        "body": "As you know, I've LOVED the idea of the construction of the island form the beginning - a controlled testbed for all of our latest projects, kept safely away from the greater population?!  Yes, PLEASE!  Already I have several designs planned out - I'm thinking of a new form of archives inscribed directly onto compacted sand or perhaps some sort of layered ink compressed into a circle and...look at me, going off again, I know your time is short.  Your recent focus on the underground has me somewhat alarmed - do we need such an extensive network of testbeds that far below the surface?  Why can't we build the council's projects on the surface?  There is plenty of room!  Please contact me as soon as possible!  I have a meeting with TIZONA later, and it keeps asking me what we are planning and I'm running out of excused!  It's got me quite jumbled!""
+        ]
+    },
+    {
+            
+    
     "artifact": {},
     "decrypt": {},
     "identify": {}

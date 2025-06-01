@@ -1,8 +1,8 @@
 {
     "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
-    "iconName": "Moon-icon.png",
-    "terminalID": "Y56",
+    "serverName": "THONOTO - ENGINEERING CONTROL",
+    "iconName": "thonoto-icon.png",
+    "terminalID": "ODRAX",
     "defaultUser": {
         "userId": "user",
         "password": "",
@@ -10,7 +10,7 @@
     },
     "initialHistory": {
         "user": [
-            "login admin@admin"
+            "DELETE ALL FILES"
         ],
         "admin": [
             "ping fbi.gov"

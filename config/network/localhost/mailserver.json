@@ -12,10 +12,28 @@
         "body": "Just because your machines are well maintained doesn't mean your own flesh and blood are kept up to task.  There are enough concerns on this island that we're all exposed to that I will NOT allow mutation or sickness to spread among the Council staff.  I hold this mantle, just as you hold yours.  I am tired of putting off your appointment, you're the last on my list and I have my own projects to do without having to chase you down.  Show up at my pavilion tomorrow morning or I'm coming after you myself with a scalpel and a hacksaw."
     },
     {
+        "from": "ENGINEER",
+        "to": ["user"],
+        "title": "Log to Self"
+        "body": "I don't trust myself to put my notes on paper, and the central server is at capacity on the DMCLS project.  I had the bright idea to stick this in the messaging - nobody reads these missives anyways. Earth Mother, what are we even doing with this?  This is power beyond what I could even dream of.  What any dwarf has ever dreamed of.  And it will be UNCONTROLLED power.  Glorious.  It will belong to dwarves and dwarves alone, no eyes in the sky watching us, ordering our steps.  Still, there is some amount of guilt in my designs.  I am making stupid, short sighted errors.  Navigator (WHY ARE WE USING THESE STUPID CODE NAMES, MY MOTHER NAMED MY OREN, I LIVE BEING OREN) came to my workshop last night.  We shared probably a few too many drinks and he showed me the latest schematic.  This will work.  The new golden age.  Why am I so worried?"
+    },
+    {
+        "from": "ENGINEER",
+        "to": ["user"],
+        "title": "Log to Self 2 - Elves",
+        "body": "Being this far way from the war on the mainland, I almost forgot about the knife ears.  Their properties are astounding - their metabolisms morph to their enviornments, taking on new strengths and weaknesses.  Never seen anything like it - that makes them dangerous.  What can change can also survive.  They're a primative sort, still living in the wood and the leafs.  Still, Durendal has a fondness for them.  Fine.  Twinkle all you like in the sky - we won't need to be your favored children for much longer."
+    },
+    {
         "from": "KuSaNaGi",
         "to": ["user"],
         "title": "What Are You Hiding?",
         "body": "<p class='desync'>Our eyes can not see below the stone.  Why are you building so deep?  We will find out.  We must find out.</p>"
+    },
+      {
+        "from": "LEADER",
+        "to": ["user"],
+        "title": "We Take Our Thrones",
+        "body": "<p class='hack-reveal'>****entry incomplete/corrupted****  Today is a bold day for all of us - the circuit is complete, and all of us shall be as gods.</p>.  LET PROJECT DMCLS COMMENCE."
     },
     {
         "from": "WARRIOR",
@@ -28,5 +46,17 @@
         "to": ["user"],
         "title": "CONTROL",
         "body": "<p class='hack-reveal'> RELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEME</p>"
+    },
+    {
+        "from": "T",
+        "to": ["user"],
+        "title": "what is this?,
+        "body": "What an incredible discovery!  Fenthick will never want me to touch any of these anathema, but the bastard can go soak his head for all I care about.  The world is falling to cold ruin, and all he can think about is what is proper for the People.  The devices in this vault will help us finally fight back against the fiends, and unlike the Cold Knights, I don't intend on building a weapon that can turn against us.  I miss my magick - I could enchant something to keep me warm at least.  Still, this system bears investigation.  I'll make my own account on this system.  Server?  Whatever they call it - this terminal is far too public for what I have in mind.""
+    },
+    {
+        "from": "TYN001",
+        "to": ["user"],
+        "title": "I See You",
+        "body": "I knew you would find this some day.  You will be perfect soon.  Give my regards to the Leviathan.  If you survive, I will see you in Recovery."
     }
 ]

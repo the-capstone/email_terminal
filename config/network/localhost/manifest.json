@@ -6,7 +6,7 @@
     "defaultUser": {
         "userId": "user",
         "password": "",
-        "userName": "ENGINEER"
+        "userName": "user"
     },
     "initialHistory": {
         "user": [

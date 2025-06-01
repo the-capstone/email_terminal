@@ -1,26 +1,32 @@
 [
     {
-        "from": "Traveller",
-        "to": ["8A73B5", "a"],
-        "title": "Do not Open",
-        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        "from": "QUILL",
+        "to": ["ENGINEER"],
+        "title": "Concerns About the Island's Construction",
+        "body": "As you know, I've LOVED the idea of the construction of the island form the beginning - a controlled testbed for all of our latest projects, kept safely away from the greater population?!  Yes, PLEASE!  Already I have several designs planned out - I'm thinking of a new form of archives inscribed directly onto compacted sand or perhaps some sort of layered ink compressed into a circle and...look at me, going off again, I know your time is short.  Your recent focus on the underground has me somewhat alarmed - do we need such an extensive network of testbeds that far below the surface?  Why can't we build the council's projects on the surface?  There is plenty of room!  Please contact me as soon as possible!  I have a meeting with TIZONA later, and it keeps asking me what we are planning and I'm running out of excused!  It's got me quite jumbled!""
     },
     {
-        "from": "Software",
-        "to": ["8A73B5", "a"],
-        "title": "undefined",
-        "body": "001100101 011000101 0110 10 01001 01 01110 1001010101"
+        "from": "MERCY",
+        "to": ["ENGINEER"],
+        "title": "Re: Re: Re: Re: Re: Re: Your Physical",
+        "body": "Just because your machines are well maintained doesn't mean your own flesh and blood are kept up to task.  There are enough concerns on this island that we're all exposed to that I will NOT allow mutation or sickness to spread among the Council staff.  I hold this mantle, just as you hold yours.  I am tired of putting off your appointment, you're the last on my list and I have my own projects to do without having to chase you down.  Show up at my pavilion tomorrow morning or I'm coming after you myself with a scalpel and a hacksaw."
     },
     {
-        "from": "Josephus A. Miller",
-        "to": ["8A73B5", "a"],
-        "title": "Contrato n22",
-        "body": "Sector: X11.  Objective: Investigate the sewers and report only to me.  Reward: 22 MCr."
+        "from": "KuSaNaGi",
+        "to": ["ENGINEER"],
+        "title": "<p class='desync'>What Are You Hiding?"</p>",
+        "body": "<p class-'desync'>Our eyes can not see below the stone.  Why are you building so deep?  We will find out.  We must find out. </p>"
     },
     {
-        "from": "Mike",
-        "to": ["admin"],
-        "title": "wtf are you kidding me?",
-        "body": "Are you kidding me? Why don't you change your password?  The system is entirely compromised until you correct it.  You're the sysadmin, if you're this dumb the corporation is at risk."
+        "from": "WARRIOR",
+        "to": ["ENGINEER"],
+        "title": "Get Out",
+        "body": "It is awake.  The wards will not hold.  We need to leave NOW."
+    }
+    {
+        "from": "DaMoClEs",
+        "to": ["ENGINEER"],
+        "title": "CONTROL",
+        "body": "<p class='hack-reveal'>RELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEMERELEASEME</p>"
     }
 ]

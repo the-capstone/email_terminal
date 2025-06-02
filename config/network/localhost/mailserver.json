@@ -27,7 +27,13 @@
         "from": "KuSaNaGi",
         "to": ["user"],
         "title": "What Are You Hiding?",
-        "body": "<p class='desync'>Our eyes can not see below the stone.  Why are you building so deep?  We will find out.  We must find out.</p>"
+        "body": "<p class='desync'>Our eyes can not see below the stone.</p?  <p class='desync'>Why are you building so deep?</p> <p class='desync'>We will find out.</p>  <p class='desync'>We must find out.</p>"
+    },
+    {
+        "from": "ENGINEER",
+        "to": ["user"],
+        "title": "Note to Self 3",
+        "body": "<p class='hack-reveal'>****entry incomplete/corrupted****  I've got the Throne working.</p> Six of these to set up, and of course mine was the last one for me to finish.  Thank Earth Mother for Arklight.  Without that, the damn chair would kill me and everyone else on the surface before it could even switch on." 
     },
     {
         "from": "LEADER",

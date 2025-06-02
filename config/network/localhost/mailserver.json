@@ -36,13 +36,13 @@
         "body": "<p class='hack-reveal'>****entry incomplete/corrupted****  I've got the Throne working.</p> Six of these to set up, and of course mine was the last one for me to finish.  Thank Earth Mother for Arklight.  Without that, the damn chair would kill me and everyone else on the surface before it could even switch on." 
     },
     {
-        "from": "LEADER",
+        "from": "JUSTICE",
         "to": ["user"],
         "title": "We Take Our Thrones",
         "body": "<p class='hack-reveal'>****entry incomplete/corrupted****  Today is a bold day for all of us - the circuit is complete, and all of us shall be as gods.</p>.  LET PROJECT DMCLS COMMENCE."
     },
     {
-        "from": "WARRIOR",
+        "from": "NAVIGATOR",
         "to": ["user"],
         "title": "Get Out",
         "body": "It is awake.  The wards will not hold.  We need to leave NOW."
